@@ -1,6 +1,17 @@
 
+		body{
+				background: #cccccc;
+		}
+		
 		p {
 		text-align:justify;
 		font-size: 18px;
-		background: #ffcccc;
+		}
+		
+		h1 {
+		text-align: center;
+		}
+		
+		em strong {
+		color: #aa0000;
 		}

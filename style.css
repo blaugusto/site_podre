@@ -4,8 +4,20 @@
 		}
 		
 		p {
-		text-align:justify;
+		text-align: justify;
 		font-size: 18px;
+		}
+		
+		#missao {
+		color:  #990000;
+		}
+		
+		#localiza {
+		color: #009900;
+		}
+		
+		#oferece{
+		color: #000099;
 		}
 		
 		h1 {
@@ -14,4 +26,11 @@
 		
 		em strong {
 		color: #aa0000;
+		}
+		
+		img{
+		}
+		#img_banner {
+		align: center;
+		width: 100%;
 		}
